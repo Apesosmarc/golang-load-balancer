@@ -1,1 +1,4 @@
-Created referencing this article: https://medium.com/@leonardo5621_66451/building-a-load-balancer-in-go-1c68131dc0ef
+created referencing this article: https://betterprogramming.pub/building-a-load-balancer-in-go-3da3c7c46f30
+
+to run:
+`go run main.go loadbalancer.go`
